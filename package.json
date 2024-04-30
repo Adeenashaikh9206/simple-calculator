@@ -1,0 +1,19 @@
+{
+  "name": "simple-calculator-in-typescript-by-adeena-sheikh",
+  "version": "1.0.0",
+  "description": "A simple calculator with typescript ,node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
